@@ -4,6 +4,8 @@
 # mypackage
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/gilbertella/mypackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/gilbertella/mypackage/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mypackage is to …
